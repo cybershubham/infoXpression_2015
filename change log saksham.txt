@@ -1,0 +1,14 @@
+ChangeLog:
+Changed description of Circuitrix (was same as Codester)
+Added image for Greenovation (was having wrong file name) in home page yet.
+Edited WeeBee description for better look and grammar.
+-first commit-
+Created almighTEE page
+Created Xcel Lens page
+Created Rooters page, added links to all related events and homepage 
+Created know it all page, added links to all related events and homepage
+-second commit-
+
+
+
+Rooters logo in home page sucks.
